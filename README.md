@@ -62,7 +62,7 @@ KULLANILAN TEKNOLOJİLER
 ![Ekran görüntüsü 2025-02-06 144209](https://github.com/user-attachments/assets/285d0565-0001-4bc1-86ed-7f015c8e1762)
 
 🎯REFERANSLARIM
-![Ekran görüntüsü 2025-02-06 144248](https://github.com/user-attachments/assets/07dd2ded-a4a2-42ed-806a-320da256d3b5)
+![Ekran görüntüsü 2025-02-06 152402](https://github.com/user-attachments/assets/84c4be81-4a6f-45d6-8bf4-625a8f3d66df)
 
 🎯İLETİŞİM
 ![Ekran görüntüsü 2025-02-06 144356](https://github.com/user-attachments/assets/d369e90c-15be-478d-8996-d6772dfa1572)
@@ -71,7 +71,7 @@ KULLANILAN TEKNOLOJİLER
 🪐ADMİN PANELİ KISMI
 ***
 🪐REFERANSLARIM 
-![Ekran görüntüsü 2025-02-06 145143](https://github.com/user-attachments/assets/1432e91a-917c-44e7-bff8-7431f3dfedec)
+![Ekran görüntüsü 2025-02-06 152720](https://github.com/user-attachments/assets/b1bb06e2-7b52-42b0-b824-1f8da2b2de84)
 🪐REFERANS EKLEME
 ![Ekran görüntüsü 2025-02-06 145223](https://github.com/user-attachments/assets/68102dac-d979-4509-bfb0-0175f260869a)
 🪐REFERANS GÜNCELLEME
@@ -85,3 +85,4 @@ KULLANILAN TEKNOLOJİLER
 🎉TEŞEKKÜRLER
 
 Bu projeyi hayata geçirme sürecinde bana destek olan ve rehberlik eden Murat Yücedağ, Buse Nur Demirbaş ve Abdullah Kuş’a içtenlikle teşekkür ederim. Verdikleri değerli bilgiler ve sağladıkları yol göstericilik, bu yolculuğu çok daha anlamlı kıldı.
+
